@@ -3,8 +3,8 @@ import GhostBusterScene from "./Scenes/GhostBusterScene";
 
 const config = {
   type: Phaser.AUTO,
-  width: 1000,
-  height: 1000,
+  width: 573,
+  height: 576,
   scale: {
     autoCenter: Phaser.Scale.CENTER_BOTH,
   },
